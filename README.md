@@ -1,0 +1,2 @@
+# face-attendance-template
+rekognition
