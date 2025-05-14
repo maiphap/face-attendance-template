@@ -1,0 +1,13 @@
+{
+    "PoolName": "FaceAttendanceUserPool",
+    "Schema": [
+      {
+        "Name": "custom:role",
+        "AttributeDataType": "String",
+        "Mutable": true,
+        "Required": false
+      }
+    ],
+    "AutoVerifiedAttributes": ["email"]
+  }
+  
